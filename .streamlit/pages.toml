@@ -1,0 +1,14 @@
+[[pages]]
+path = "app.py"
+name = "Suchen & bearbeiten"
+icon = "🔍"
+
+[[pages]]
+path = "Pages/add.py"
+name = "Hinzufügen"
+icon = "➕"
+
+[[pages]]
+path = "Pages/delete.py"
+name = "Löschen"
+icon = "␡"
