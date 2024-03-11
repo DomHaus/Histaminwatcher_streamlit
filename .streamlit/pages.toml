@@ -1,5 +1,5 @@
 [[pages]]
-path = "app.py"
+path = "pages/search.py"
 name = "Suchen & bearbeiten"
 icon = "🔍"
 
