@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@iwasdiesdas.com
+      name: Admin
+      password: $2b$12$7jD0aruysH7Ntb7iK2wWQuSeF0sl9WbpIb2ISUfYhFcN6/nzqmKQa
+    bianca:
+      email: bianca@iwasdiesdas.com
+      name: Bianca
+      password: $2b$12$ZmoEmShyVrVqG2NaZXvlqOuMYe.75e37IhR0z4.BpDRzZZT3rZa2q
+    sanne:
+      email: sanne@iwasdiesdas.com
+      name: Sanne
+      password: $2b$12$d2FNjZWMVJLrAd24f0KDXuDH/i.3k9s4I4wQznSNHKsRPBY4fhDwa
+cookie:
+  expiry_days: 30
+  key: histamindashboardkey # Must be string
+  name: histamindashboard
