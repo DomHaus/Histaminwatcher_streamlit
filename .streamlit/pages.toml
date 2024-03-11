@@ -1,5 +1,5 @@
 [[pages]]
-path = "pages/search.py"
+path = "app.py"
 name = "Suchen & bearbeiten"
 icon = "🔍"
 
@@ -11,4 +11,4 @@ icon = "➕"
 [[pages]]
 path = "Pages/delete.py"
 name = "Löschen"
-icon = "␡"
+icon = "➕"
